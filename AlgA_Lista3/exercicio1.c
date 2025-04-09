@@ -1,5 +1,5 @@
 // Nome: Anderson Schieck Lopes
-// Exercício 1: Pares no intervalo (Simples)
+// ExercÃ­cio 1: Pares no intervalo
 
 #include <stdio.h>
 
@@ -20,7 +20,7 @@ int main() {
     printf("\nNumeros pares entre %d e %d:\n", num1, num2);
 
     for (i = num1; i <= num2; i++) {
-        // Verifica se 'i' é par
+        // Verifica se 'i' Ã© par
         if (i % 2 == 0) {
             printf("%d ", i);
         }
