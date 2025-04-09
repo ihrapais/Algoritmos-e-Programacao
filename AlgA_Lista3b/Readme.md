@@ -5,7 +5,8 @@ Disciplina: Algoritmos e Programação A
 Lista de Exercícios IIIb
 
 Desenvolva algoritmos utilizando a linguagem de programação C.
-(Alguns exercícios podem aparecer diferente no PDF)
+
+(Alguns exercícios podem aparecer diferentes no PDF)
 
 1. Faça um algoritmo para calcular e escrever a tabuada dos números de 1 a 10.
 2. Faça um algoritmo para ler um número menor que 1000 e calcular e mostrar todos os
