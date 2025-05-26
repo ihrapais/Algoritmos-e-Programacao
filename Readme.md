@@ -67,7 +67,7 @@ Este repositório tem como finalidade:
 
 ### Exemplo 1: Soma de dois números
 
-```c
+```
 #include <stdio.h>
 
 int main() {
@@ -82,8 +82,11 @@ int main() {
     return 0;
 }
 
+```
+
 Exemplo 2: Verificar se o número é par ou ímpar
 
+```
 #include <stdio.h>
 
 int main() {
@@ -100,7 +103,7 @@ int main() {
     return 0;
 }
 
-
+```
 ---
 
 Compilando e Executando (GCC)
