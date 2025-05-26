@@ -1,4 +1,4 @@
-# Algoritmos e Programacao A - Lista de Exercicios 3d
+# Algoritmos e Programação A - Lista de Exercicios 3d
 
 ## Descrição dos Exercicios resolvidos sem a utilização de vetores
 
