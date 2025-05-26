@@ -1,10 +1,6 @@
-# Algoritmos e Programacao A - Lista de Exercicios IIId
+# Algoritmos e Programacao A - Lista de Exercicios 3d
 
-Este repositorio contem as solucoes para a Lista de Exercicios IIId da disciplina de Algoritmos e Programacao A, desenvolvidas em linguagem C e sem a utilizacao de vetores.
-
-## Descricao dos Exercicios
-
-Aqui estao as descricoes dos problemas propostos nesta lista:
+## Descrição dos Exercicios resolvidos sem a utilização de vetores
 
 1.  **Calculo de Raizes de Equacao de 2o Grau:**
     Desenvolver um algoritmo que leia os coeficientes `a`, `b` e `c` de uma equacao de 2o grau ($ax^2 + bx + c = 0$) e calcule suas raizes utilizando a formula de Baskara. O algoritmo deve continuar lendo conjuntos de coeficientes ate que `a`, `b` e `c` sejam todos zero. Deve tratar os casos em que o discriminante ($\Delta = b^2 - 4ac$) e negativo (raizes imaginarias) e quando `a` e zero (equacao de primeiro grau).
