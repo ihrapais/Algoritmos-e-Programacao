@@ -22,7 +22,7 @@ int main() {
         printf("Consumo kWh: ");
         scanf("%f", &consumo_kwh);
         printf("Tipo de consumidor (R, C, I, X para sair): ");
-        scanf(" %c", &tipo_consumidor); // Consume o newline
+        scanf(" %c", &tipo_consumidor);
 
         if (tipo_consumidor == 'X' || tipo_consumidor == 'x') {
             break;
