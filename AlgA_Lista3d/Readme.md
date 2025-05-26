@@ -1,6 +1,6 @@
 # Algoritmos e Programacao A - Lista de Exercicios IIId
 
-Este repositorio contem as solucoes para a Lista de Exercicios IIId da disciplina de Algoritmos e Programacao A, desenvolvidas em linguagem C e sem a utilizacao de vetores (conforme as restricoes iniciais para alguns exercicios).
+Este repositorio contem as solucoes para a Lista de Exercicios IIId da disciplina de Algoritmos e Programacao A, desenvolvidas em linguagem C e sem a utilizacao de vetores.
 
 ## Descricao dos Exercicios
 
