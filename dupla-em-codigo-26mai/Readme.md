@@ -9,8 +9,7 @@ Posteriormente:
   e) Mostre os dias em que houve a menor temperatura máxima  
 
 2 - Leia um vetor de inteiros de 5 posições que contém a legenda (número do partido) dos candidatos a uma eleição para Prefeito.  
-Em um outro vetor, leia e armazene a quantidade de votos que cada candidato obteve na eleição (considere que os valores registrados são distintos).  
-Crie um vetor para armazenar o percentual de votos obtidos por cada um dos candidatos e por fim, mostre:
+Em um outro vetor, leia e armazene a quantidade de votos que cada candidato obteve na eleição (considere que os valores registrados são distintos).  Crie um vetor para armazenar o percentual de votos obtidos por cada um dos candidatos e por fim, mostre:
 
 a) o conteúdo de cada um dos vetores:  
 b) o candidato com maior votação (sua legenda, quantidade de votos e percentual obtido).
